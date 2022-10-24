@@ -156,14 +156,20 @@ When we complete the level, a label arises in the bottom pane which says “The 
 
 ![image](https://user-images.githubusercontent.com/105942580/197604933-5f0f3a0f-5db9-46ef-941b-5d98d057bbdf.png)
 
-How to run the code ?
+                                                                  How to run the code ?
 
 Firstly  download the project levels & main class files.
+
 Then open the windows command prompt.
-Change the current directory to the location of downloaded files. (cd ./..)
+
+Change the current directory to the location of downloaded files. (cd ./..).
+
 Type the javac Project.java to compile the code.
+
 Then type java Project.
+
 It will opens the menu. 
+
 Congrats !! You can play the game ...
 
 
