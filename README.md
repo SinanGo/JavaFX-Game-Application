@@ -159,12 +159,19 @@ When we complete the level, a label arises in the bottom pane which says “The 
 How to run the code ?
 
 Firstly  download the project levels & main class files.
+
 Then open the windows command prompt.
+
 Change the current directory to the location of downloaded files. (cd ./..)
+
 Type the javac Project.java to compile the code.
+
 Then type java Project.
+
 It will opens the menu. 
+
 Congrats !! You can play the game ...
+
 
 ![Screenshot_10](https://user-images.githubusercontent.com/105942580/197605648-593c4555-c646-4dd0-aa06-7a5673a6ca6a.png)
 
